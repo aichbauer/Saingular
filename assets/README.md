@@ -1,3 +1,5 @@
+Author: [Antonin Januska](https://github.com/AntJanus)
+
 ##Angular 2.X TypeScript starter kit
 
 
@@ -22,4 +24,4 @@ gulp
 
 ###Usage
 
-The starter kit is meant to be used by anyone who wants to get a taste of Angular 2.X apps 
+The starter kit is meant to be used by anyone who wants to get a taste of Angular 2.X apps
